@@ -7,6 +7,7 @@ redirect_from:
 - "/docs/user-guide/production-pods.html"
 ---
 
+“Have a try！”
 This section of the Kubernetes documentation contains pages that
 show how to do individual tasks. A task page shows how to do a
 single thing, typically by giving a short sequence of steps.
